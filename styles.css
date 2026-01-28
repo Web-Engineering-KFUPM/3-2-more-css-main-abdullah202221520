@@ -279,7 +279,7 @@ body {
   min-height: 80;
   padding: 0.75rem;
   margin-block: 0.75rem;
-  border-radius: 50%;
+  border-radius: 0.5rem;
   color: white;
   background: linear-gradient(135deg, var(--brand), #22c55e);
 }
@@ -338,7 +338,7 @@ body {
 .product-grid .item {
   flex: 1 1 140px;
   min-height: 90px;
-  background: rgba(245, 158, 11, 0.12);
+  background: rgba(0, 0, 0, 0.4);
   border-radius: 12px;
 
   display: flex;
